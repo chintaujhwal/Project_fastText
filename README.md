@@ -17,6 +17,10 @@ $ make
 ```
 This setup will build the fastText binaries, allowing you to train and test models on your data.
 
+### Resources
+
+All the files used in this project are available in the following Google Drive folder: [Source](https://drive.google.com/drive/folders/1cD2-uDp2vcGfcN5HP-YeQgbW4OSv-MFZ?usp=sharing)
+
 ### Description of Original Dataset
 
 The dataset consists of reviews from Amazon. The data span a period of 18 years, including 35 million reviews up to March 2013. Reviews include product and user information, ratings, and a plaintext review.
